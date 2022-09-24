@@ -29,6 +29,5 @@ Here are some ideas to get you started:
   <a href = "mailto:ocarla957@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carla-alves-20a2531b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/CarlaAlves957/CarlaAlves957/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/carlaalves957/carlaalves957/blob/output/github-contribution-grid-snake.svg)
 </div>
