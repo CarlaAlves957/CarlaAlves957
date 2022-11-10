@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalhando como Analista de Sistema.
 - 🌱 Estudante na area de desenvolvimento Mobile.
-- 📫 Meu contato é ocarla957@gmail.com
+- 📫 Meu contato é (https://www.linkedin.com/in/carla-alves-20a2531b8/)
 - 
 -->
 <div align="center">
